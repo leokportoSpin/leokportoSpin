@@ -20,6 +20,11 @@
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
 </div>
+<div style="display: inline_block"><br />
+  <a href="https://www.linkedin.com/in/leonardo-klarmann-porto-466a7921/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 <!--
 **leokportoSpin/leokportoSpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
